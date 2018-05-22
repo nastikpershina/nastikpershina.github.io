@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>СПРАВКА</title>
+    </head>
+    <body>
+        <div>
+            <p>В приложении <b>Яндекс.Переводчик</b> Вы можете переводить текст и веб-страницы, а также использовать функции для перевода речи и текста с изображения, прослушивать перевод для правильного произношения слов.</p>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:1080px;" width="0">
+                <tbody>
+                    <tr>
+                        <td style="width:540px;">
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/mp7ckj/text.png" width="80" height="80" alt="Перевод текста и веб-страниц"/><big><big>Перевод текста и веб-страниц</big></big>
+                                    <dd><a href="#text1">Как перевести веб-страницу?</a></dd>
+                                    <dd><a href="#text2">Как переключить язык?</a></dd>
+                                    <dd><a href="#text3">Как удалить/вернуть текст одним действием?</a></dd>
+                                    <dd><a href="#text4">Как скопировать перевод?</a></dd>
+                                    <dd><a href="#text5">Действия с переводом</a></dd>
+                                </dt>
+                            </dl>
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/q08z0g/image.png" width="80" height="80" alt="Перевод текста с изображения"/><big><big>Перевод текста с изображения</big></big>
+                                    <dd><a href="#image1">Как перевести текст с изображения?</a></dd>
+                                    <dd><a href="#image2">Почему не работает кнопка фотокамеры?</a></dd>
+                                    <dd><a href="#image3">Почему приложение не распознает текст?</a></dd>
+                                </dt>
+                            </dl>
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/wp55ud/oration.png" width="70" height="80" alt="Перевод речи"/><big><big>Перевод речи</big></big>
+                                    <dd><a href="#oration1">Как перевести речь?</a></dd>
+                                    <dd><a href="#oration2">Почему не работает микрофон?</a></dd>
+                                </dt>
+                            </dl>
+                        </td>
+                        <td style="width:540px;">
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/hr4w6q/settings.png" width="80" height="80" alt="Настройки"/><big><big>Настройки</big></big>
+                                    <dd><a href="#settings1">Офлайн-режим</a></dd>
+                                    <dd><a href="#settings2">Настройка приложения</a></dd>
+                                </dt>
+                            </dl>
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/o2biqa/favorites.png" width="80" height="60" alt="Избранное"/><big><big>Избранное</big></big>
+                                    <dd><a href="#favorites1">Функция «Учить слова»</a></dd>
+                                    <dd><a href="#favorites2">История переводов</a></dd>
+                                    <dd><a href="#favorites3">Как синхронизировать списки?</a></dd>
+                                </dt>
+                            </dl>
+                            <dl>
+                                <dt>
+                                    <img src="http://my-files.ru/Get/t5ugsh/possibility.png" width="80" height="80" alt="Дополнительные возможности"/><big><big>Дополнительные возможности</big></big>
+                                    <dd><a href="#possibility">Как перевести текст в сторонних приложениях?</a></dd>
+                                </dt>
+                            </dl>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4><a name="text1">Как перевести веб-страницу?</a></h4>
+            <ol>
+                <li>Скопируйте адрес веб-страницы и вставьте в поле ввода.</li>
+                <li>Нажмите кнопку <b>Перевести сайт</b>.</li>
+            </ol>
+            <h4><a name="text2">Как переключить язык?</a></h4>
+            <ol>
+                <li>Над полем ввода нажмите название языка.</li>
+                <li>Выберите из открывшегося списка необходимый язык.</li>
+            </ol>
+            <p>Чтобы переключить направление перевода, нажмите кнопку <img src="http://my-files.ru/Get/57xbjs/switching.png" width="35" height="15" alt="Переключить"/>.</p>
+            <h4><a name="text3">Как удалить/вернуть текст одним действием?</a></h4>
+            <ul>
+                <li>Чтобы удалить текст, смахните поле ввода влево.</li>
+                <li>Чтобы вернуть текст, смахнитеполе ввода вправо.</li>
+            </ul>
+            <h4><a name="text4">Как скопировать перевод?</a></h4>
+            <p>Нажмите на перевод, чтобы скопировать его.</p>            
+            <h4><a name="text5">Действия с переводом</a></h4>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:880px;" width="0">
+                <tbody>
+                    <tr>
+                        <td style="width:440px;">
+                            <b>iOS</b>
+                            <p>Справа от перевода расположены кнопки, с помощью которых Вы сможете выполнить следующие действия:</p>
+                            <p><img src="http://my-files.ru/Get/m9rdbu/listen.png" width="30" height="30" alt="Прослушать"/> - Прослушать перевод</p>
+                            <p><img src="http://my-files.ru/Get/77ns98/expand.png" width="25" height="30" alt="Раскрыть"/> - Раскрыть полное описание</p>
+                            <p><img src="http://my-files.ru/Get/afdc8x/add.png" width="25" height="30" alt="Добавить"/> - Добавить в Избранное</p>
+                            <p><img src="http://my-files.ru/Get/uv3v2c/send.png" width="30" height="28" alt="Отправить"/> - Поделиться</p>
+                            <p><img src="http://my-files.ru/Get/r3par3/full.png" width="30" height="30" alt="Полный экран"/> - Полноэкранный режим</p>
+                            <p><img src="http://my-files.ru/Get/ymwvcl/report.png" width="30" height="30" alt="Ошибка"/> - Сообщить об ошибке в переводе</p>
+                            <p><img src="http://my-files.ru/Get/cunabk/note.png" width="15" height="15" alt="Инфо"/><b>Примечание.</b> Если Вы обнаружили ошибку в переводе:</p>
+                            <ol>
+                                <li>Нажмите кнопку <img src="http://my-files.ru/Get/ymwvcl/report.png" width="30" height="30" alt="Ошибка" />.</li>
+                                <li>Нажмите на ошибочный перевод.</li>
+                                <li>Во всплывающем окне нажмите кнопку <b>Пожаловаться</b>.</li>
+                            </ol>
+                        </td>
+                        <td style="width:440px;">
+                            <b>Android</b>
+                            <p>Справа от перевода расположены кнопки, с помощью которых Вы сможете выполнить следующие действия:</p>
+                            <p><img src="http://my-files.ru/Get/m9rdbu/listen.png" width="30" height="30" alt="Прослушать"/> - Прослушать перевод</p>
+                            <p><img src="http://my-files.ru/Get/afdc8x/add.png" width="25" height="30" alt="Добавить"/> - Добавить в Избранное</p>
+                            <p><img src="http://my-files.ru/Get/uv3v2c/send.png" width="30" height="28" alt="Отправить"/> - Поделиться</p>
+                            <p><img src="http://my-files.ru/Get/r3par3/full.png" width="30" height="30" alt="Полный экран"/> - Полноэкранный режим</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4><a name="image1">Как перевести текст с изображения?</a></h4>
+            <ol>
+                <li>В поле ввода нажмите кнопку <img src="http://my-files.ru/Get/b8i6zy/photo.png" width="30" height="26" alt="Фото"/>.</li>
+                <li>Добавьте изображение для перевода одним из способов:
+                    <ol style="list-style-type:lower-alpha;">
+                        <li>Сфотографируйте текст</li>
+                        <li>В левом нижнем углу нажмите кнопку и выберите изображение с устройства</li>
+                    </ol>
+                </li>
+                <li>Выберите режим распознавания, нажав кнопку в левом нижнем углу.</li>
+                <li>Нажмите кнопку <img src="http://my-files.ru/Get/8mzq0v/identify.png" width="30" height="27" alt="Распознать"/>.</li>
+            </ol>
+            <h4><a name="image2">Почему не работает кнопка фотокамеры?</a></h4>
+            <p>Кнопка фотокамеры не активна, если в настройках приложения включен <b>Офлайн-режим</b>.</p>
+            <h4><a name="image3">Почему приложение не распознает текст?</a></h4>
+            <p>Приложение не распознает текст с перевернутого и не четкого изображения.</p>
+            <p>Если необходимо перевернуть изображение, нажмите кнопку <img src="http://my-files.ru/Get/84o3qo/invert.png" width="30" height="20" alt="Перевернуть"/>.</p>
+            <h4><a name="oration1">Как перевести речь?</a></h4>
+            <ol>
+                <li>В поле ввода нажмите кнопку <img src="http://my-files.ru/Get/04hhls/microphone.png" width="25" height="35" alt="Микрофон"/>.</li>
+                <li>Как только кнопка микрофона начнет подсвечиваться, произнесите слово или текст для перевода.</li>
+            </ol>
+            <h4><a name="oration2">Почему не работает микрофон?</a></h4>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:880px;" width="0">
+                <tbody>
+                    <tr>
+                        <td style="width:440px;">
+                            <b>iOS</b>
+                            <ul>
+                                <li>Кнопка микрофона не активна, если в настройках приложения включен <b>Офлайн-режим</b>.</li>
+                                <li>Выбран язык ввода или перевода, для которого не доступен голосовой ввод.</li>
+                            </ul>
+                        </td>
+                        <td style="width:440px;">
+                            <b>Android</b>
+                            <p>Выбран язык ввода или перевода, для которого не доступен голосовой ввод.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4><a name="settings1">Офлайн-режим</a></h4>
+            <p>С опцией "Офлайн-режим" Вы сможете пользоваться приложением без подключения к интернету.</p>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:880px;" width="0">
+                <tbody>
+                    <tr>
+                        <td style="width:440px;">
+                            <b>iOS</b>
+                            <p>Для работы приложения в офлайн-режиме:</p>
+                            <ol>
+                                <li>Перейдите на вкладку <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/>.</li>
+                                <li>Нажмите <b>Скачать офлайн-пакет</b>.</li>
+                                <li>Выберите пакет и нажмите кнопку <img src="http://my-files.ru/Get/ttcepc/download.png" width="30" height="30" alt="Скачать"/>.</li>
+                                <li>После завершения загрузки включите Офлайн-режим, сдвинув ползунок вправо.</li>
+                            </ol>
+                        </td>
+                        <td style="width:440px;">
+                            <b>Android</b>
+                            <p>Для работы приложения в офлайн-режиме:</p>
+                            <ol>
+                                <li>Перейдите на вкладку <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/>.</li>
+                                <li>Нажмите <b>Скачать офлайн-перевод</b>.</li>
+                                <li>Выберите пакет и нажмите кнопку <img src="http://my-files.ru/Get/kkwzj1/download.png" width="30" height="29" alt="Скачать"/>.</li>
+                                <li>После завершения загрузки включите Офлайн-режим, сдвинув ползунок вправо.</li>
+                            </ol>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4><a name="settings2">Настройка приложения</a></h4>
+            <table border="0" cellpadding="0" cellspacing="0" style="width:880px;" width="0">
+                <tbody>
+                    <tr>
+                        <td style="width:440px;">
+                            <b>iOS</b>
+                            <p>На вкладке <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/> Вы можете изменить фон приложения и настроить следующие опции:</p>
+                            <center>
+                            <img src="http://my-files.ru/Get/q3fmt4/options.png" width="250" height="225" alt="Опции"/>
+                            </center>
+                            <p>Для включения опции сдвиньте ползунок вправо, для отключения - влево.</p>
+                        </td>
+                        <td style="width:440px;">
+                            <b>Android</b>
+                            <p>На вкладке <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/> Вы можете настроить следующие опции:</p>
+                            <center>
+                            <img src="http://my-files.ru/Get/z0ibp0/options.png" width="260" height="210" alt="Опции"/>
+                            </center>
+                            <p>Для включения опции сдвиньте ползунок вправо, для отключения - влево.</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <h4><a name="favorites1">Функция «Учить слова»</a></h4>
+            <ol>
+                <li>Добавьте переводы в <b>Избранное</b>.</li>
+                <li>Перейдите на вкладку <img src="http://my-files.ru/Get/buw0ug/bookmark.png" width="24" height="30" alt="Избранное"/>.</li>
+                <li>Нажмите <b>Учить слова</b>.</li>
+                <li>В правом верхнем углу нажмите <img src="http://my-files.ru/Get/zaooz9/cards.png" width="30" height="30" alt="Карточки"/> и настройте количество карточек и повторов.</li>
+            </ol>
+            <h4><a name="favorites2">История переводов</a></h4>
+            <p>На вкладке <img src="http://my-files.ru/Get/buw0ug/bookmark.png" width="24" height="30" alt="Избранное"/> Вы можете просмотреть историю всех переводов, а также очистить ее.</p>            
+            <h4><a name="favorites3">Как синхронизировать списки?</a></h4>
+            <ol>
+                <li>Перейдите на вкладку <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/> и авторизуйтесь.</li>
+                <li>Перейдите на вкладку <img src="http://my-files.ru/Get/buw0ug/bookmark.png" width="24" height="30" alt="Избранное"/> и нажмите кнопку <img src="http://my-files.ru/Get/hojj0d/sync.png" width="30" height="30" alt="Синхронизировать"/>.</li>
+            </ol>
+            <h4><a name="possibility">Как перевести текст в сторонних приложениях?</a></h4>
+            <p>Выделите текст и выберите <b>Яндекс.Переводчик</b> в контекстном меню.</p>
+            <p><img src="http://my-files.ru/Get/2i28g6/limitation.png" width="15" height="15" alt="Внимание"/><b style="color:#ff0000">Ограничение.</b> Функция доступна на мобильных устройствах с ОС Android 6.0 и выше.</p>
+        </div>
+    </body>
+</html>
