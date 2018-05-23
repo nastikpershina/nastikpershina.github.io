@@ -88,14 +88,14 @@
                     <tr>
                         <td style="width:440px;">
                             <b>iOS</b>
-                            <p>Справа от перевода расположены кнопки, с помощью которых Вы сможете выполнить следующие действия:</p>
+                            <p>Справа от перевода расположены кнопки, с помощью которых Вы можете выполнить следующие действия:</p>
                             <p><img src="http://my-files.ru/Get/m9rdbu/listen.png" width="30" height="30" alt="Прослушать"/> - Прослушать перевод</p>
                             <p><img src="http://my-files.ru/Get/77ns98/expand.png" width="25" height="30" alt="Раскрыть"/> - Раскрыть полное описание</p>
                             <p><img src="http://my-files.ru/Get/afdc8x/add.png" width="25" height="30" alt="Добавить"/> - Добавить в Избранное</p>
                             <p><img src="http://my-files.ru/Get/uv3v2c/send.png" width="30" height="28" alt="Отправить"/> - Поделиться</p>
                             <p><img src="http://my-files.ru/Get/r3par3/full.png" width="30" height="30" alt="Полный экран"/> - Полноэкранный режим</p>
                             <p><img src="http://my-files.ru/Get/ymwvcl/report.png" width="30" height="30" alt="Ошибка"/> - Сообщить об ошибке в переводе</p>
-                            <p><img src="http://my-files.ru/Get/cunabk/note.png" width="15" height="15" alt="Инфо"/><b>Примечание.</b> Если Вы обнаружили ошибку в переводе:</p>
+                            <p><img src="http://my-files.ru/Get/cunabk/note.png" width="15" height="15" alt="Инфо"/> <b>Примечание.</b> Если Вы обнаружили ошибку в переводе:</p>
                             <ol>
                                 <li>Нажмите кнопку <img src="http://my-files.ru/Get/ymwvcl/report.png" width="30" height="30" alt="Ошибка" />.</li>
                                 <li>Нажмите на ошибочный перевод.</li>
@@ -104,7 +104,7 @@
                         </td>
                         <td style="width:440px;">
                             <b>Android</b>
-                            <p>Справа от перевода расположены кнопки, с помощью которых Вы сможете выполнить следующие действия:</p>
+                            <p>Справа от перевода расположены кнопки, с помощью которых Вы можете выполнить следующие действия:</p>
                             <p><img src="http://my-files.ru/Get/m9rdbu/listen.png" width="30" height="30" alt="Прослушать"/> - Прослушать перевод</p>
                             <p><img src="http://my-files.ru/Get/afdc8x/add.png" width="25" height="30" alt="Добавить"/> - Добавить в Избранное</p>
                             <p><img src="http://my-files.ru/Get/uv3v2c/send.png" width="30" height="28" alt="Отправить"/> - Поделиться</p>
@@ -118,8 +118,8 @@
                 <li>В поле ввода нажмите кнопку <img src="http://my-files.ru/Get/b8i6zy/photo.png" width="30" height="26" alt="Фото"/>.</li>
                 <li>Добавьте изображение для перевода одним из способов:
                     <ol style="list-style-type:lower-alpha;">
-                        <li>Сфотографируйте текст</li>
-                        <li>В левом нижнем углу нажмите кнопку и выберите изображение с устройства</li>
+                        <li>Сфотографируйте текст.</li>
+                        <li>В левом нижнем углу нажмите кнопку и выберите изображение с устройства.</li>
                     </ol>
                 </li>
                 <li>Выберите режим распознавания, нажав кнопку в левом нижнем углу.</li>
@@ -188,17 +188,13 @@
                         <td style="width:440px;">
                             <b>iOS</b>
                             <p>На вкладке <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/> Вы можете изменить фон приложения и настроить следующие опции:</p>
-                            <center>
                             <img src="http://my-files.ru/Get/q3fmt4/options.png" width="250" height="225" alt="Опции"/>
-                            </center>
                             <p>Для включения опции сдвиньте ползунок вправо, для отключения - влево.</p>
                         </td>
                         <td style="width:440px;">
                             <b>Android</b>
                             <p>На вкладке <img src="http://my-files.ru/Get/ppy6pb/gear.png" width="30" height="30" alt="Настройки"/> Вы можете настроить следующие опции:</p>
-                            <center>
                             <img src="http://my-files.ru/Get/z0ibp0/options.png" width="260" height="210" alt="Опции"/>
-                            </center>
                             <p>Для включения опции сдвиньте ползунок вправо, для отключения - влево.</p>
                         </td>
                     </tr>
@@ -209,7 +205,7 @@
                 <li>Добавьте переводы в <b>Избранное</b>.</li>
                 <li>Перейдите на вкладку <img src="http://my-files.ru/Get/buw0ug/bookmark.png" width="24" height="30" alt="Избранное"/>.</li>
                 <li>Нажмите <b>Учить слова</b>.</li>
-                <li>В правом верхнем углу нажмите <img src="http://my-files.ru/Get/zaooz9/cards.png" width="30" height="30" alt="Карточки"/> и настройте количество карточек и повторов.</li>
+                <li>В правом верхнем углу нажмите кнопку <img src="http://my-files.ru/Get/zaooz9/cards.png" width="30" height="30" alt="Карточки"/> и настройте количество карточек и повторов.</li>
             </ol>
             <h4><a name="favorites2">История переводов</a></h4>
             <p>На вкладке <img src="http://my-files.ru/Get/buw0ug/bookmark.png" width="24" height="30" alt="Избранное"/> Вы можете просмотреть историю всех переводов, а также очистить ее.</p>            
@@ -220,7 +216,7 @@
             </ol>
             <h4><a name="possibility">Как перевести текст в сторонних приложениях?</a></h4>
             <p>Выделите текст и выберите <b>Яндекс.Переводчик</b> в контекстном меню.</p>
-            <p><img src="http://my-files.ru/Get/2i28g6/limitation.png" width="15" height="15" alt="Внимание"/><b style="color:#ff0000">Ограничение.</b> Функция доступна на мобильных устройствах с ОС Android 6.0 и выше.</p>
+            <p><img src="http://my-files.ru/Get/2i28g6/limitation.png" width="15" height="15" alt="Внимание"/> <b style="color:#ff0000">Ограничение.</b> Функция доступна на мобильных устройствах с ОС Android 6.0 и выше.</p>
         </div>
     </body>
 </html>
